@@ -15,4 +15,12 @@ int main(){
 		cin >> i;
 		cout << i+273;
 	}
+	int u;
+	cin >> u;
+	if (u==1){
+		cout<<1;
+	}
+	else{
+		cout<<0;
+	}
 }
